@@ -10,7 +10,7 @@ o dataset foi modelado utilizando a linguagem Python, seguindo os princípios de
 
 ![Modelagem](image.png)
 
-Todo o passo a passo das transformações está no arquivo [text](onlineRetail.ipynb) na seção "Transformações"
+Todo o passo a passo das transformações está no arquivo [onlineRetail](onlineRetail.ipynb) na seção "Transformações"
 
 Análises:
 
