@@ -18,29 +18,29 @@ Foram realizadas análises em SQL e posteriomente criado gráficos utilizando as
 
 Análise de Receita por Produto
 
-- Quais foram os produtos mais vendidos?
-- Qual a receita gerada por produto ao longo do tempo?
+- Quais foram os produtos mais vendidos? Link Dadosfera - [Produtos mais vendidos](https://metabase-treinamentos.dadosfera.ai/question/1678-quais-sao-os-produtos-mais-vendidos)
+- Qual a receita gerada por produto ao longo do tempo? Link Dadosfera - [Receita gerada por produto](https://metabase-treinamentos.dadosfera.ai/question/1679-qual-a-receita-gerada-por-produto-ao-longo-do-tempo)
 
 
 
 Análise de Cliente
 
-- Quem são os clientes que mais gastam?
-- Qual a frequência de compras de clientes específicos ao longo do tempo?
+- Quem são os clientes que mais gastam? Link Dadosfera - [Clientes que mais gastam](https://metabase-treinamentos.dadosfera.ai/question/1680-quem-sao-os-clientes-que-mais-gastam)
+- Qual a frequência de compras de clientes específicos ao longo do tempo? Link Dadosfera - [Frequência de compras](https://metabase-treinamentos.dadosfera.ai/question/1681-qual-a-frequencia-de-compras-de-clientes-especificos-ao-longo-do-tempo)
 
 
 Análise Temporal
 
-- Quais são os meses ou trimestres com maior volume de vendas? 
+- Quais são os meses ou trimestres com maior volume de vendas? Link Dadosfera - [Volume de Vendas](https://metabase-treinamentos.dadosfera.ai/question/1682-quais-sao-os-meses-com-maior-volume-de-vendas)
 *Em meses e Trimestres
 
 
 Análise Geográfica
 
-- Quais países geram mais receita?
-- Relação entre o país do cliente e os produtos
+- Quais países geram mais receita? Link Dadosfera - [Países que geram mais receita](https://metabase-treinamentos.dadosfera.ai/question/1683-quais-paises-geram-mais-receita)
+- Relação entre o país do cliente e os produtos - Link Dadosfera - [Países Clientes x Produtos](https://metabase-treinamentos.dadosfera.ai/question/1685-qual-a-relacao-entre-o-paises-dos-clientes-e-os-produtos-comprados)
 
 
 Análise de pedidos
 
-- Quantidade de pedidos cancelados [Pedidos Cancelados](https://metabase-treinamentos.dadosfera.ai/question/1676-quantidades-de-ordens-canceladas)
+- Quantidade de pedidos cancelados - Link Dadosfera [Ordens Cancelados](https://metabase-treinamentos.dadosfera.ai/question/1676-quantidades-de-ordens-canceladas)
