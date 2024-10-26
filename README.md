@@ -2,7 +2,7 @@
 
 Extração dos dados:
 
-Foi utilizado o dataset "Online Retail" do Kaggle onde o dataset possui 541910 linhas em formato CSV
+Foi utilizado o dataset "Online Retail" do Kaggle onde o dataset possui 541910 linhas em formato CSV - [Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail/data)
 
 Modelagem dos dados:
 
