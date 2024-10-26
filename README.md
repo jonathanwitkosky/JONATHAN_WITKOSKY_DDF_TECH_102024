@@ -43,4 +43,4 @@ Análise Geográfica
 
 Análise de pedidos
 
-- Quantidade de pedidos cancelados
+- Quantidade de pedidos cancelados [Pedidos Cancelados](https://metabase-treinamentos.dadosfera.ai/question/1676-quantidades-de-ordens-canceladas)
