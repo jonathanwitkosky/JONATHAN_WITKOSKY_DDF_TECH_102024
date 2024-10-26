@@ -16,26 +16,31 @@ Análises:
 
 Foram realizadas análises em SQL e posteriomente criado gráficos utilizando as bibliotecas Matplotlib e seaborn para criar a visualização dessas análises. Onde respondemos as seguintes perguntas:
 
-- Análise de Receita por Produto
+Análise de Receita por Produto
 
 - Quais foram os produtos mais vendidos?
 - Qual a receita gerada por produto ao longo do tempo?
 
-- Análise de Cliente
+
+
+Análise de Cliente
 
 - Quem são os clientes que mais gastam?
 - Qual a frequência de compras de clientes específicos ao longo do tempo?
 
-- Análise Temporal
+
+Análise Temporal
 
 - Quais são os meses ou trimestres com maior volume de vendas? 
 *Em meses e Trimestres
 
-- Análise Geográfica
+
+Análise Geográfica
 
 - Quais países geram mais receita?
 - Relação entre o país do cliente e os produtos
 
-- Análise de pedidos
+
+Análise de pedidos
 
 - Quantidade de pedidos cancelados
